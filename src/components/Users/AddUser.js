@@ -15,5 +15,5 @@ const AddUser = (props) => {
         </form>
     );
 };
- 
+
 export default AddUser;
